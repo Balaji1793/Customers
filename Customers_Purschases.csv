@@ -1,0 +1,5 @@
+Customer_id,Customer_name,Gender,Age,Country,TotalSpending,CustomerSegment
+1,"John Doe",Male,28,USA,200.50,"High Value"
+3,"Sam Brown",Male,22,Canada,200.00,"High Value"
+2,"Jane Smith",Female,34,UK,150.00,"Medium Value"
+4,"Lucy Black",Female,29,Australia,150.00,"Medium Value"
